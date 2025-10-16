@@ -93,7 +93,7 @@ background: var(--global-bg-color)
       }
 
       &.current {
-        color: #fff;
+        color: #531b87;
         background: var(--global-base-color);
       }
 
@@ -198,7 +198,7 @@ background: var(--global-bg-color)
     border: 0;
     outline: none;
     background-color: var(--global-base-color);
-    color: #fff;
+    color: #531b87;
     cursor: pointer;
     z-index: 100;
   }
@@ -269,7 +269,7 @@ background: var(--global-bg-color)
     padding: 5px;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
-    background: #fff;
+    background: #531b87;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -392,7 +392,7 @@ background: var(--global-bg-color)
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: #531b87;
     font-size: $type-size-6;
     background: var(--global-base-color);
     border-top-left-radius: $border-radius;
