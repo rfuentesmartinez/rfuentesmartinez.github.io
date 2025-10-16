@@ -4,6 +4,7 @@
 #572fbf
 #fafafa
 --global-masthead-link-color        : #{$dark-gray};
+--global-code-text-color            : #{$darker-gray};
    ========================================================================== */
 
 /* Color codes used for the theme */
@@ -38,7 +39,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
+    --global-code-text-color            : #572fbf;
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
     --global-link-color                 : #52adc8;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
