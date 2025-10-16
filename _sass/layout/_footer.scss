@@ -1,10 +1,11 @@
 /* ==========================================================================
    FOOTER
+var(--global-footer-bg-color)
    ========================================================================== */
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
+  background-color: #531b87;
   color: var(--global-text-color-light);
 
   float: left;
