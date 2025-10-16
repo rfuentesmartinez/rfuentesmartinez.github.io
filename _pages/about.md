@@ -11,4 +11,9 @@ redirect_from:
 
 I am a PhD student in Economics at _IMT School for Advanced Studies Lucca_ and _University of Alicante_.
 
-My research interests are financial and time series econometrics, as well as copulas and dependence modelling.
+My research interests are:
+- Time series econometrics
+- Financial econometrics
+- Copulas and dependence modelling
+
+
