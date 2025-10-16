@@ -1,10 +1,11 @@
 /* ==========================================================================
    MASTHEAD
+background: var(--global-bg-color);
    ========================================================================== */
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: #531b87;
   height: fit-content;
   top: 0;
   width: 100%;
