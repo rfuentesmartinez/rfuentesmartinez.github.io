@@ -346,13 +346,13 @@ background: var(--global-bg-color)
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: #531b87;
     font-weight: bold;
     background: var(--global-base-color);
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: #531b87;
     }
   }
 }
@@ -386,7 +386,7 @@ background: var(--global-bg-color)
   color: var(--global-text-color-light);
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+  background-color: #531b87;
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
