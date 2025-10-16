@@ -18,7 +18,7 @@ author_profile: true
 
 ## Work in progress
 
-- _"Enhancing portfolio performances through option-implied informations"_ with Antonio Rubia and Carlo Sala
+- _"Enhancing portfolio performances through option-implied information"_ with Antonio Rubia and Carlo Sala
 
 
 
