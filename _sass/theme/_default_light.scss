@@ -1,11 +1,12 @@
 /* ==========================================================================
    DEFAULT THEME
 #7a8288
+#572fbf
 #fafafa
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #572fbf;
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
