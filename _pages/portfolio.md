@@ -18,6 +18,7 @@ author_profile: true
 
 ## Work in progress
 
+- _"Granger Causality in Expectiles: a M-vine copula test"_ with Irene Crimaldi
 - _"Enhancing portfolio performances through option-implied information"_ with Antonio Rubia and Carlo Sala
 
 
