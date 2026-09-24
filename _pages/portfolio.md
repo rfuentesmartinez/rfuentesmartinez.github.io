@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working papers
 
-- _"Granger Causality in Expectiles: a M-vine copula test"_ with Irene Crimaldi (Submitted) \[[arXiv](https://arxiv.org/abs/2603.23294)\]
+- _"Granger Causality in Expectiles: an M-vine copula test"_ with Irene Crimaldi (Submitted) \[[arXiv](https://arxiv.org/abs/2603.23294)\]
 
   A model-free measure of Granger causality in expectiles is proposed, generalizing the traditional mean-based measure to arbitrary positions of the conditional distribution. Expectiles are the only law-invariant risk measures that are both coherent and elicitable, making them particularly well-suited for studying distributional Granger causality where risk quantification and forecast evaluation are both relevant. Based on this measure, a test is developed using M-vine copula models that accounts for multivariate Granger causality with d+1 series under non-linear and non-Gaussian dependence, without imposing parametric assumptions on the joint distribution. Strong consistency of the test statistic is established under some regularity conditions. In finite samples, simulations show accurate size control and power increasing with sample size. A key advantage is the joint testing capability: causal relationships invisible to pairwise tests can be detected, as demonstrated both theoretically and empirically. Two applications to international stock market indices at the global and Asian regional level illustrate the practical relevance of the proposed framework.
 
