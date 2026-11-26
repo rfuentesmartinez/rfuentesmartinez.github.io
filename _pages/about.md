@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+I hold a PhD in Economics from *IMT School for Advanced Studies Lucca* and the *University of Alicante* (2026). **I am on the 2026–2027 job market.**
 
+**Job Market Paper:** [*What Does the Option Market Tell Us About Systemic Risk?*](/files/FuentesMartinez_JMP.pdf) (with Antonio Rubia and Carlo Sala)
 
-I am a PhD student in Economics at _IMT School for Advanced Studies Lucca_ and _University of Alicante_.
+## Research interests
 
-My research interests are:
 - Time series econometrics
-- Financial econometrics
 - Copulas and dependence modelling
+- Financial econometrics
+
+
+
 
 
