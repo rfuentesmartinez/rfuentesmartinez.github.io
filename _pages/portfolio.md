@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Job Market Paper
 
-- **_"What Does the Option Market Tell Us About Systemic Risk?"_** with Antonio Rubia and Carlo Sala \[[PDF](/files/FuentesMartinez_JMP.pdf)\]
+- **_"What Does the Option Market Tell Us About Systemic Risk?"_** with Antonio Rubia and Carlo Sala \[[PDF](/files/rfm_jmp.pdf)\]
 
   We propose the $$\Delta\text{CoExp}$$, a forward-looking measure of systemic risk extracted from short-term option prices. Our measure replaces the quantile that the $$\Delta\text{CoVaR}$$ applies to the financial system with an expectile, the only risk measure that is both coherent and elicitable, and whose option-implied counterpart requires considerably less data to estimate. Applied to major US banks and to the US financial sector index, the $$\Delta\text{CoExp}$$ anticipates the stock-based $$\Delta\text{CoVaR}$$ by one to three weeks. We further show that standard macroeconomic and financial factors explain most of the $$\Delta\text{CoVaR}$$ but less than half of the $$\Delta\text{CoExp}$$, and that the lead stems from the component of the latter that these factors leave unexplained. These results suggest that option prices contain information on systemic risk beyond common factors, supporting the use of the $$\Delta\text{CoExp}$$ as an early-warning complement to existing measures.
 
